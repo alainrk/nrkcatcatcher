@@ -1,0 +1,28 @@
+{
+  "name": "catcacher",
+  "version": "1.0.0",
+  "description": "A simple tutorial game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alainrk/nrkcatcatcher.git"
+  },
+  "keywords": [
+    "phaser",
+    "game",
+    "javascript",
+    "html5"
+  ],
+  "author": "Alain Di Chiappari (on \"An Introduction to HTML5 Game Development with Phaser.js\" book)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alainrk/nrkcatcatcher/issues"
+  },
+  "homepage": "https://github.com/alainrk/nrkcatcatcher#readme",
+  "dependencies": {
+    "phaser-ce": "^2.8.0"
+  }
+}
